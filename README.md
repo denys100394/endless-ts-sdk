@@ -4,6 +4,7 @@
 <!-- update 3 -->
 <!-- update 4 -->
 <!-- update 5 -->
+<!-- update 6 -->
 
 ### Reference Docs
  1. For SDK documentation, check out the [TypeScript SDK documentation](https://docs.endless.link/endless/devbuild/build/endless-sdks/typescript-sdk/)
